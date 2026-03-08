@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Furkan 👋
 
-<!--
-**furkan-savasci/furkan-savasci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity enthusiast focused on SOC analysis, network security, log analysis and penetration testing.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- SOC Operations
+- Log Analysis
+- Threat Analysis
+- Network Security
+- Penetration Testing
+- Linux Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+- Wireshark
+- Nmap
+- Burp Suite
+- SQLMap
+- Metasploit
+- Kali Linux
+- Linux
+
+## Education & Training
+- Computer Programming, Ufuk University
+- Cyber Security Specialist Training, Bilişim Academy
+- CCNA-based Network Training
+
+## Goals
+I aim to build my career in cyber security, especially in SOC, security analysis and penetration testing roles.
+
+## Connect with Me
+- LinkedIn: linkedin.com/in/furkan-savaşçı
