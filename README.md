@@ -28,4 +28,4 @@ I am a cybersecurity enthusiast focused on SOC analysis, network security, log a
 I aim to build my career in cyber security, especially in SOC, security analysis and penetration testing roles.
 
 ## Connect with Me
-- LinkedIn: linkedin.com/in/furkan-savaşçı
+- LinkedIn: linkedin.com/in/furkan-savasci
